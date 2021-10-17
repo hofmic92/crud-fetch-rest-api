@@ -18,4 +18,4 @@ Základní práce s FETCH API
 ###### Základní potřebné commandy
 - `npm start` - spustí server
 
-
+PS: Don't forget npm i
